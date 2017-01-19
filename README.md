@@ -28,3 +28,9 @@ Generators and Modules
 
 ### Day 6
 Putting it all together
+
+## Text
+Texts used for this coourse were taken from the NLTK data corpora specifically the [Australian Broadcasting Commission 2006](http://www.abc.net.au/)
+
+The contents of the document were taken from the science section of the news. http://www.abc.net.au/science/news/
+
